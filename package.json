@@ -1,0 +1,24 @@
+{
+  "name": "dtroydev.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtroydev/dtroydev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtroydev/dtroydev.github.io/issues"
+  },
+  "homepage": "https://github.com/dtroydev/dtroydev.github.io#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "javascript-obfuscator": "^0.18.1"
+  }
+}

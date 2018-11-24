@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+title: Daniel’s Demo Page
+description: Welcome!
+exclude: 
+  - 'assets/js/source.js'
+  - 'build.sh'
+  - 'CNAME'
+  - 'obfuscatorconfig.js'
+  - 'package.json'
+  - 'package-lock.json'
+  - 'template.md'
